@@ -1,1 +1,3 @@
-alert('The babies are coming. You cannot ignore them! >:)');
+import pageLoad from './pageLoad';
+
+pageLoad();
