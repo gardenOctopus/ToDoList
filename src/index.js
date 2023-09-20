@@ -1,3 +1,3 @@
-import pageLoad from './pageLoad';
+import babies from './pageLoad';
 
-pageLoad();
+babies();
